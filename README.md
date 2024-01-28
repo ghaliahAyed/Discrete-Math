@@ -1,0 +1,2 @@
+# Discrete-Math
+PRIMALITY TEST 
